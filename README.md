@@ -1,2 +1,4 @@
-# MernStack-chatGPT-Clone
-complete mern stack chat gpt clone 
+# MernStack AI-chatbot 
+A chatbot inspired by chatGPT ,but with improved features.
+
+
