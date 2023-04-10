@@ -1,7 +1,9 @@
 # MernStack AI-chatbot 
 A chatbot inspired by chatGPT , but with improved features.
+<br>
 Paragraph generator
-Chatgpt
-Sci-fi image generator
-javascript convertor
+<br>
+Chatgpt<br>
+Sci-fi image generator <br>
+javascript convertor <br>
 
