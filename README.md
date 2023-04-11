@@ -8,6 +8,7 @@ Sci-fi image generator <br>
 javascript convertor <br>
 
 
+# Screenshot of how the web application looks
 
 ![Screenshot (277)](https://user-images.githubusercontent.com/109866847/231044309-6ac59238-ad4f-494d-ac3d-a4aef8d1bbbd.png)
 
