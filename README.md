@@ -2,11 +2,11 @@
 
 ## A chatbot inspired by chatGPT , but with improved features.
 <br>
-Paragraph generator
+- Paragraph generator
 <br>
-Chatgpt<br>
-Sci-fi image generator <br>
-javascript convertor <br>
+- Chatgpt<br>
+- Sci-fi image generator <br>
+- javascript convertor <br>
 
 
 # Screenshot of how the web application looks
