@@ -8,6 +8,7 @@
 - Sci-fi image generator <br>
 - javascript convertor <br>
 
+## Demo of the project
 
 # Screenshot of how the web application looks
 
