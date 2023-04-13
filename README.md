@@ -10,7 +10,7 @@
 
 ## Demo of the project :)
 
-saurabh-chatgpt.cyclic.app/
+https://saurabh-chatgpt.cyclic.app/
 
 <br>
 
