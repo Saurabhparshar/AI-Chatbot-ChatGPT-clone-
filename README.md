@@ -3,6 +3,7 @@
 ## A chatbot inspired by chatGPT , but with improved features.
 <br>
 Some features of the AIchatbot are:
+<br>
 - Paragraph generator
 <br>
 - Chatgpt<br>
