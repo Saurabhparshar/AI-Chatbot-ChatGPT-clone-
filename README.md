@@ -2,7 +2,7 @@
 
 ## A chatbot inspired by chatGPT , but with improved features.
 <br>
-Some features of the AI-chatbot are:
+Some features of the AI-chatbot are: )
 <br>
 - Paragraph generator
 <br>
