@@ -4,7 +4,7 @@
 <br>
 Some features of the AI-chatbot are: )
 <br>
-- Paragraph generator.
+- Paragraph generator
 <br>
 - Chatgpt<br>
 - Sci-fi image generator <br>
